@@ -72,14 +72,14 @@ Automobile_Sales_Analysis/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Automobile_Sales_Analysis.git
+git clone https://github.com/vshimano/Automobile_Sales_Analysis.git
 cd Automobile_Sales_Analysis
 
 # Install required libraries
 pip install pandas numpy matplotlib seaborn plotly dash scikit-learn fredapi
 
 # API Keys
-# A free FRED API key is required — register at https://fred.stlouisfed.org
+# A free FRED API key is required — register at (https://fred.stlouisfed.org)
 # Store your key in a local config.py file (see Part 1 README for details)
 ```
 
@@ -89,4 +89,4 @@ pip install pandas numpy matplotlib seaborn plotly dash scikit-learn fredapi
 
 **Victoria Shimanovich**
 PhD in Applied Mathematics | Data Analytics  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/victoria-shimanovich-a7309764/) | [GitHub](https://github.com/vshimano)
