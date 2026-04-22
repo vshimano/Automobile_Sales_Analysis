@@ -146,7 +146,7 @@ Part 3 will apply the best performing model (Random Forest) to **regional U.S. d
 
 ## Series Navigation
 
-- [Part 1 — EDA & Linear Regression](../README.md)
+- [Part 1 — EDA & Linear Regression](../Part1_US_Analysis/README.md)
 - **Part 2 — Advanced Modeling** *(this notebook)*
 - Part 3 — Regional Analysis *(coming soon)*
 
