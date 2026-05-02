@@ -9,7 +9,7 @@ A multi-part data analytics project examining automobile sales dynamics across d
 | Part | Title | Status | Key Methods |
 |------|-------|--------|-------------|
 | [Part 1](./Part1_US_Analysis/) | U.S. National Trends (1976–2024) |  Complete | EDA, Linear & Multiple Regression |
-| [Part 2](./Part_2_US_AdvancedAnalysis/) | Advanced Modeling — U.S. National | Complete | ARIMA, Random Forest, Ridge Regression, XGBoost |
+| [Part 2](./Part2_US_AdvancedAnalysis) | Advanced Modeling — U.S. National | Complete | ARIMA, Random Forest, Ridge Regression, XGBoost |
 | Part 3 | Regional & International Variation | Complete | EDA, Regional Comparison, Hypothesis Test, Random Forest |
 | Part 4 | Geopolitical Shocks & EV Transition | 🔲 Planned | TBD |
 
