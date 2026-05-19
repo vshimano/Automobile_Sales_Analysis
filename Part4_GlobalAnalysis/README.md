@@ -10,7 +10,7 @@ Parts 1 and 2 established that U.S. automobile sales are dominated by economic m
 
 Part 4 takes the analysis international, asking whether transit access and ownership culture produce similar structural effects across countries - and whether economic conditions matter more in markets where car purchase is a discretionary choice rather than a necessity.
 
-> **Data note:** The OECD TOCAPA indicator covers new passenger car registrations only. Trucks, SUVs, vans, and used vehicle purchases are excluded. This systematically undercounts Group 1 markets (USA, Canada, Australia) where these vehicle categories dominate sales, and is the primary limitation of this analysis. All registration-level comparisons across groups should be interpreted with this caveat in mind.
+> **Data note:** The OECD TOCAPA indicator covers new passenger car registrations only. Trucks, SUVs, and vans represent big portion of new vehicle sales especially in Group 1 (USA, Canada, Australia) but much smaller share in Group 2 and Group 3 markets. This creates systematic undercount Group 1 market activity that affects all registration-level comparisons across groups. Used vehicle purchases are also excluded for all countries which also creates systemic undercount for Group 3 since new registrations capture only the wealthier segment of the market. Group 2 is  represented by the data the best; passenger cars dominate new sales and new car market is accessible to a broader population share. 
 
 ---
 
